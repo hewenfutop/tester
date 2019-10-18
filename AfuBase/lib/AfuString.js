@@ -1,4 +1,4 @@
-const iconv = require('iconv-lite') // npm i iconv-lite
+const iconv = require('iconv-lite/lib/index') // npm i iconv-lite
 
 module.exports = class AfuString {
   constructor (buf) {

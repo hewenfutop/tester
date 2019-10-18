@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64cc5f3a-bfaf-455c-939c-15eb250699c6" name="默认的" comment="" />
+    <list default="true" id="64cc5f3a-bfaf-455c-939c-15eb250699c6" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/wicture.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AfuBase/fun/UploadImage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AfuBase/lib/AfuStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zpc/1注销.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AfuBase/AfuFile.js" beforeDir="false" afterPath="$PROJECT_DIR$/AfuBase/lib/AfuFile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AfuBase/AfuFileExcel.js" beforeDir="false" afterPath="$PROJECT_DIR$/AfuBase/lib/AfuFileExcel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AfuBase/AfuHttp.js" beforeDir="false" afterPath="$PROJECT_DIR$/AfuBase/lib/AfuHttp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AfuBase/AfuLogin.js" beforeDir="false" afterPath="$PROJECT_DIR$/AfuBase/fun/AfuLogin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AfuBase/AfuString.js" beforeDir="false" afterPath="$PROJECT_DIR$/AfuBase/lib/AfuString.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AfuBase/reg.js" beforeDir="false" afterPath="$PROJECT_DIR$/AfuBase/data/reg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AfuBase/token.afu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zpc/0登录.js" beforeDir="false" afterPath="$PROJECT_DIR$/zpc/0登录.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zpc/1询价.js" beforeDir="false" afterPath="$PROJECT_DIR$/zpc/5询价.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zpc/com/brands.js" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,62 +34,89 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zpc/0登录.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+            <state relative-caret-position="44">
+              <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AfuBase/lib/AfuStore.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zpc/5询价.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zpc/1询价.js">
+        <entry file="file://$PROJECT_DIR$/AfuBase/fun/UploadImage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
-              <caret line="45" column="17" lean-forward="true" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+            <state relative-caret-position="506">
+              <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AfuBase/AfuHttp.js">
+        <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="72" column="16" lean-forward="true" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
+            <state relative-caret-position="110">
+              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AfuBase/token.afu">
+        <entry file="file://$PROJECT_DIR$/AfuBase/lib/AfuHttp.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+            <state relative-caret-position="-2046">
+              <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zpc/com/brands.js">
+        <entry file="file://$PROJECT_DIR$/AfuBase/fun/AfuLogin.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="1327" column="46" selection-start-line="1327" selection-start-column="46" selection-end-line="1327" selection-end-column="46" />
+            <state relative-caret-position="110">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AfuBase/AfuString.js">
+        <entry file="file://$PROJECT_DIR$/zpc/1注销.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="88">
+              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AfuBase/AfuFile.js">
+        <entry file="file://$PROJECT_DIR$/AfuBase/lib/AfuString.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+            <state relative-caret-position="374">
+              <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AfuBase/lib/AfuFile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4158">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -90,6 +135,9 @@
       <find>江铃</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -97,12 +145,24 @@
         <option value="$PROJECT_DIR$/AfuBase/AfuString.js" />
         <option value="$PROJECT_DIR$/AfuBase/AfuParseObj.js" />
         <option value="$PROJECT_DIR$/AfuBase/AfuFileExcel.js" />
-        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/zpc/brands.js" />
         <option value="$PROJECT_DIR$/zpc/com/brands.js" />
-        <option value="$PROJECT_DIR$/zpc/1询价.js" />
         <option value="$PROJECT_DIR$/AfuBase/AfuHttp.js" />
         <option value="$PROJECT_DIR$/AfuBase/token.afu" />
+        <option value="$PROJECT_DIR$/zpc/1询价.js" />
+        <option value="$PROJECT_DIR$/AfuBase/Store/token.afu" />
+        <option value="$PROJECT_DIR$/AfuBase/AfuLogin.js" />
+        <option value="$PROJECT_DIR$/AfuBase/store/store.js" />
+        <option value="$PROJECT_DIR$/AfuBase/lib/AfuLogin.js" />
+        <option value="$PROJECT_DIR$/zpc/0登录.js" />
+        <option value="$PROJECT_DIR$/AfuBase/lib/AfuStore.js" />
+        <option value="$PROJECT_DIR$/zpc/1注销.js" />
+        <option value="$PROJECT_DIR$/AfuBase/fun/AfuLogin.js" />
+        <option value="$PROJECT_DIR$/zpc/5询价.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/AfuBase/lib/AfuString.js" />
+        <option value="$PROJECT_DIR$/AfuBase/lib/AfuHttp.js" />
+        <option value="$PROJECT_DIR$/AfuBase/fun/UploadImage.js" />
       </list>
     </option>
   </component>
@@ -112,11 +172,14 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="1877" />
-    <option name="y" value="16" />
-    <option name="width" value="1932" />
-    <option name="height" value="1045" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -139,13 +202,14 @@
             <path>
               <item name="tester" type="b2602c69:ProjectViewProjectNode" />
               <item name="tester" type="462c0819:PsiDirectoryNode" />
-              <item name="zpc" type="462c0819:PsiDirectoryNode" />
+              <item name="AfuBase" type="462c0819:PsiDirectoryNode" />
+              <item name="fun" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tester" type="b2602c69:ProjectViewProjectNode" />
               <item name="tester" type="462c0819:PsiDirectoryNode" />
-              <item name="zpc" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="AfuBase" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -154,14 +218,20 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.postfix.templates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\wicture\Desktop\tester\zpc\com" />
+      <recent name="C:\Users\wicture\Desktop\tester\AfuBase\lib" />
+      <recent name="C:\Users\wicture\Desktop\tester\AfuBase\fun" />
+      <recent name="C:\Users\wicture\Desktop\tester\AfuBase\store\value" />
+      <recent name="C:\Users\wicture\Desktop\tester\AfuBase\data" />
+      <recent name="C:\Users\wicture\Desktop\tester\AfuBase\Store" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -186,22 +256,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571287748997</updated>
-      <workItem from="1571287750310" duration="10433000" />
+      <workItem from="1571287750310" duration="20570000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10433000" />
+    <option name="totallyTimeSpent" value="20570000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="DB Browser" />
       <window_info id="Project Explorer" />
       <window_info id="Job Explorer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17929563" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13927428" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="调试" />
       <window_info anchor="bottom" id="Console" />
@@ -211,7 +281,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Tail" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.25543478" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.24291939" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -241,66 +311,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AfuBase/AfuFile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AfuBase/AfuString.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zpc/com/brands.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="1327" column="46" selection-start-line="1327" selection-start-column="46" selection-end-line="1327" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AfuBase/AfuHttp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="72" column="16" lean-forward="true" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AfuBase/token.afu">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AfuBase/AfuFileExcel.js">
+    <entry file="file://$PROJECT_DIR$/AfuBase/lib/AfuFileExcel.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zpc/0登录.js">
+    <entry file="file://$PROJECT_DIR$/zpc/com/brands.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        <state relative-caret-position="308">
+          <caret line="1327" column="24" selection-start-line="1327" selection-start-column="24" selection-end-line="1327" selection-end-column="24" />
+          <folding>
+            <element signature="e#9#26039#1" />
+            <element signature="e#26073#26079#0" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zpc/1询价.js">
+    <entry file="file://$PROJECT_DIR$/AfuBase/data/reg.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="45" column="17" lean-forward="true" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+        <state relative-caret-position="66">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AfuBase/store/value/token.afu">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="793" selection-start-column="793" selection-end-column="793" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AfuBase/lib/AfuStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zpc/1注销.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zpc/0登录.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AfuBase/store/value/auth">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AfuBase/store/value/token">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AfuBase/fun/AfuLogin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zpc/5询价.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AfuBase/lib/AfuFile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4158">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AfuBase/lib/AfuString.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AfuBase/lib/AfuHttp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2046">
+          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AfuBase/fun/UploadImage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
         </state>
       </provider>
     </entry>

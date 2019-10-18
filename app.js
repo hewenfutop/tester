@@ -1,40 +1,12 @@
-let AfuFile = require('./AfuBase/AfuFile')
-let AfuString = require('./AfuBase/AfuString')
-let AfuExcel = require('./AfuBase/AfuFileExcel')
+let AfuFile = require('./AfuBase/lib/AfuFile')
+let AfuString = require('./AfuBase/lib/AfuString')
+let AfuExcel = require('./AfuBase/lib/AfuFileExcel')
+let UploadImages = require('./AfuBase/fun/UploadImage')
 
-let excel = new AfuExcel('', 'score.csv')
-excel.readCSVFile().then(res => {
-  console.log(res)
+let up = new UploadImages('C:\\Users\\wicture\\Pictures', '11.jpg')
+up.upload().then(res => {
+  console.log('OK')
 }).catch(err => {
-  console.log(err)
-})
-excel.parseTableToObjectArray(3).then(res => {
-
-}).catch(err => {
-
+  console.log('ERR')
 })
 
-
-let obj = {
-  company: '红弯路汽配商',
-  code: '45',
-  addr: {
-    province: '上海',
-    city: '虹口区'
-  },
-  parts: [
-    {
-      oe: '452275',
-      quantity: 4,
-      addr: [
-        {
-          province: 'bt',
-          city: 'mnaskj'
-        }, {
-          province: 'bt',
-          city: 'mnaskj'
-        }
-      ]
-    }
-  ]
-}

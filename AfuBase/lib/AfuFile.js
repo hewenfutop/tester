@@ -1,6 +1,6 @@
 let fs = require('fs')
 let path = require('path')
-let reg = require('./reg')
+let reg = require('../data/reg')
 module.exports = class FileController {
   constructor (dir, file) {
     this.dir = dir
